@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GKC | Collections</title>
+
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Font Awesome CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+<nav class="navbar">
+      <h1><img src="images/GKC_logo.png" alt="logo"></h1>
+
+      <div class="navbar-links">
+        <p class="navbar-link"><a href="index.html">Home</a></p>
+        <p class="navbar-link"><a href="collections.html">Collections</a></p>
+        <p class="navbar-link"><a href="contact.html">Contact</a></p>
+      </div>
+
+      <div class="navbar-menu-toggle" onclick="showNavbar()">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+    </nav>
+
+    <div class="side-navbar">
+      <p>
+        <i style="color: white;" class="fa-solid fa-xmark" onclick="closeNavbar()"></i>
+      </p>
+
+      <div class="side-navbar-links">
+        <p class="side-navbar-link"><a href="index.html">Home</a></p>
+        <p class="side-navbar-link"><a href="collections.html">Collections</a></p>
+        <p class="side-navbar-link"><a href="contact.html">Contact</a></p>
+      </div>
+    </div>
+
+    <!-- Collection Header -->
+    <section class="collection-header">
+      <h2>Explore Our Latest Collections</h2>
+      <form class="product-search">
+        <input type="text" id="search" placeholder="Search products..." />
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </form>
+    </section>
+
+    <!-- Products Grid -->
+    <section class="products-grid">
+      <div class="product-card">
+        <img src="images/fashion1.jpg" alt="Stylish Cooler" />
+        <h3>Stylish Cooler</h3>
+        <p>$49.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion2.jpg" alt="Black Jacket" />
+        <h3>Black Jacket</h3>
+        <p>$69.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion3.jpg" alt="White T-shirt" />
+        <h3>White T-shirt</h3>
+        <p>$29.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion4.jpg" alt="Stylish Long Jacket" />
+        <h3>Long Jacket</h3>
+        <p>$89.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion5.jpg" alt="Handbag" />
+        <h3>Handbag</h3>
+        <p>$39.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion6.jpg" alt="Grey Long Jacket" />
+        <h3>Grey Jacket</h3>
+        <p>$79.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion7.jpg" alt="Casual Jean" />
+        <h3>Casual Jean</h3>
+        <p>$59.99</p>
+      </div>
+      <div class="product-card">
+        <img src="images/fashion8.jpg" alt="Hoodie" />
+        <h3>Hoodie</h3>
+        <p>$34.99</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <div class="footer">
+      <div class="footer-container">
+        <div class="footer-box-1">
+          <h2 class="headingtxt">GKC online Shopping</h2>
+          <p>Where fashion meets future.</p>
+          <div class="footer-icon-container">
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-facebook"></i>
+          </div>
+        </div>
+      </div>
+      <p>&copy; 2024 gkc.com</p>
+    </div>
+    <script src="index.js"></script>
+    <script src="collection.js"></script>
+  </body>
+</html>
