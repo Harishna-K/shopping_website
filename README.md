@@ -62,7 +62,7 @@ You can open index.html directly in your browser.
 📸 Screenshots
 🖼️ Home Page
 
-![GKC Home Page](images/Homepage.png)
+![Home Page](images/Home_page.png)
 
 🛍️ Collection Page
 
