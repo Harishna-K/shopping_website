@@ -49,6 +49,7 @@ README.md -> Project overview
 1. **Clone the repository**
  
 git clone https://github.com/your-username/gkc-shopping.git
+
 cd gkc-shopping
 
 --- 
@@ -84,4 +85,4 @@ This project is licensed under the MIT License. Feel free to use and modify for 
 
 ---
 
-Let me know if you'd like to include deployment instructions (e.g., GitHub Pages) or want a `collections.html`/`contact.html` version too.
+Let me know if you'd like to include deployment instructions (e.g., GitHub Pages) or if you'd also like a `collections.html`/`contact.html` version.
