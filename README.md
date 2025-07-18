@@ -2,7 +2,7 @@
 
 Welcome to **GKC**, a sleek and modern fashion eCommerce landing page built with **HTML, CSS, and JavaScript**. This project features a fully responsive layout, clean design, and interactive UI elements, perfect for showcasing a brand’s latest collections and attracting online shoppers.
 
-![GKC Website Banner](images/fashion.jpg)
+<img src="images/fashion.jpg" alt="fashion" width="600" height="400"/>
 
 ---
 
@@ -35,11 +35,17 @@ Welcome to **GKC**, a sleek and modern fashion eCommerce landing page built with
 ## 📂 Folder Structure
 
 /images -> Image assets (e.g., fashion.jpg, GKC_logo.png)
+
 style.css -> Custom styles
+
 index.html -> Main HTML file (Home Page)
+
 collections.html -> Placeholder for product collections
+
 contact.html -> Placeholder for contact form/page
+
 index.js -> JS file for mobile navbar toggle
+
 README.md -> Project overview
 
 ---
@@ -48,13 +54,13 @@ README.md -> Project overview
 
 1. **Clone the repository**
  
-git clone https://github.com/your-username/gkc-shopping.git
+git clone https://github.com/Harishna-K/shopping_website.git
 
-cd gkc-shopping
+cd shopping_website
 
 --- 
 
-2.Open the website in a browser
+  2. Open the website in a browser
 
 You can open index.html directly in your browser.
 
@@ -63,15 +69,15 @@ You can open index.html directly in your browser.
 📸 Screenshots
 🖼️ Home Page
 
-![Home Page](images/Home_page.png)
+<img src="images/Home_page.png" alt="Clock Preview" width="600" />
 
 🛍️ Collection Page
 
-![GKC Collection Page](images/collection_page.png)
+<img src="images/collection_page.png" alt="Clock Preview" width="600" />
 
 📬 Contact Page
 
-![Contact Page](images/contact_page.png)
+<img src="images/contact_page.png" alt="Clock Preview" width="600" />
 
 📬 Contact & Credits
 Designed & Developed by Harishna K
@@ -83,6 +89,3 @@ Fonts by Google Fonts
 📃 License
 This project is licensed under the MIT License. Feel free to use and modify for personal or commercial projects.
 
----
-
-Let me know if you'd like to include deployment instructions (e.g., GitHub Pages) or if you'd also like a `collections.html`/`contact.html` version.
