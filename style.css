@@ -273,6 +273,7 @@ body {
   .header-img {
     margin-top: 20px;
     width: 90%;
+    height: 200px;
   }
   .service-container-2 {
     flex-direction: column;
