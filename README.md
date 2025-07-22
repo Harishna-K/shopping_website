@@ -50,21 +50,22 @@ README.md -> Project overview
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo
 
-1. **Clone the repository**
- 
-git clone https://github.com/Harishna-K/shopping_website.git
+You can check out the deployed project here:  
+👉 https://harishna-k.github.io/shopping_website/
 
-cd shopping_website
+---
 
---- 
+## 🛠️ Installation & Usage
 
-  2. Open the website in a browser
-
-You can open index.html directly in your browser.
-
-💡 Tip: Use Live Server in VS Code for hot reload development.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Harishna-K/shopping_website.git
+   cd shopping_website
+   
+2. Open index.html in your browser
+   Or use Live Server in VS Code.
 
 📸 Screenshots
 🖼️ Home Page
